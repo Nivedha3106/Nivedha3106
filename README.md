@@ -4,7 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m interested in write about and  develop software solutions for and with Python, ReactJS , Express, OpenCv.
-
-
-
+- 🌱 I'm learning DevOps currently. 
+- Have good knowledge about Python 
